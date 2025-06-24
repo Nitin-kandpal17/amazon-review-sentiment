@@ -1,0 +1,25 @@
+# Environments
+.env
+.venv/
+venv/
+sentiment-nlp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/raw_reviews.csv
+data/cleaned_reviews.json
+data/*.csv
+*.zip
+*.h5
+*.pkl
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.DS_Store
+
