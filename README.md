@@ -41,7 +41,7 @@ uvicorn api.app:app --reload
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/Nitin-kandpal17/sentiment-analysis.git
+git clone https://github.com/Nitin-kandpal17/amazon-review-sentiment.git
 cd sentiment-analysis
 pip install -r requirements.txt
 ```
